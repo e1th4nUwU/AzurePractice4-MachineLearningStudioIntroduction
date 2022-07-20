@@ -1,4 +1,4 @@
-# Creating a our first progrmam with Microsoft Azure Portal and Azure Machine Learning Studio
+# Creating a our first program with Microsoft Azure Portal and Azure Machine Learning Studio
 ![VirtualNetworkLogo](img/ms-azure-ml-logo.png)
 
 
